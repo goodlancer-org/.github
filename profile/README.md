@@ -2,6 +2,8 @@
 
 Our team of robotics engineers specializes in creating affordable innovative robots and disseminating new knowledge in the field of human-robot interaction, artificial intelligence, and big data analytics. We design, explain and bring to life ideas that can benefit humanity and improve people's lives.
 
+![Goodlancer.com robots](../IvanAndJason.jpg?raw=true "Ivan Nefedov is tuning racing robot")
+
 ## ✨ Principles we follow ✨
 
 ### 🤖<->🧑 Robot-human interaction
